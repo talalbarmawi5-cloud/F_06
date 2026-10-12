@@ -1,0 +1,15 @@
+/Users/talal/Desktop/Faster/bin/Debug/net10.0/Faster
+/Users/talal/Desktop/Faster/bin/Debug/net10.0/Faster.deps.json
+/Users/talal/Desktop/Faster/bin/Debug/net10.0/Faster.runtimeconfig.json
+/Users/talal/Desktop/Faster/bin/Debug/net10.0/Faster.dll
+/Users/talal/Desktop/Faster/bin/Debug/net10.0/Faster.pdb
+/Users/talal/Desktop/Faster/obj/Debug/net10.0/Faster.GeneratedMSBuildEditorConfig.editorconfig
+/Users/talal/Desktop/Faster/obj/Debug/net10.0/Faster.AssemblyInfoInputs.cache
+/Users/talal/Desktop/Faster/obj/Debug/net10.0/Faster.AssemblyInfo.cs
+/Users/talal/Desktop/Faster/obj/Debug/net10.0/Faster.csproj.CoreCompileInputs.cache
+/Users/talal/Desktop/Faster/obj/Debug/net10.0/Faster.sourcelink.json
+/Users/talal/Desktop/Faster/obj/Debug/net10.0/Faster.dll
+/Users/talal/Desktop/Faster/obj/Debug/net10.0/refint/Faster.dll
+/Users/talal/Desktop/Faster/obj/Debug/net10.0/Faster.pdb
+/Users/talal/Desktop/Faster/obj/Debug/net10.0/Faster.genruntimeconfig.cache
+/Users/talal/Desktop/Faster/obj/Debug/net10.0/ref/Faster.dll
